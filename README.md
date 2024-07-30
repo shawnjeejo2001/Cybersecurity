@@ -1,5 +1,5 @@
 # Hello, I'm Shawn Vithayathil
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shawn-vithayathil-41a817191/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Highly motivated and detail-oriented recent graduate with a Bachelor's degree in Mathematics and Computer Science, complemented by a minor in Economics. Passionate about cybersecurity, with a strong foundation in analytical thinking, problem-solving, and technical skills. Proficient in programming languages such as Python and Java, and experienced in data analysis and cryptography. Adept at understanding complex systems and identifying potential vulnerabilities. Eager to apply my knowledge and skills to protect digital assets and ensure data security in a dynamic cybersecurity role.
@@ -27,13 +27,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### Coding
+<div>
+    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge"" />
 </div>
 
 ### SIEM
