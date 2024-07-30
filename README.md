@@ -40,6 +40,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge"" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
+
 </div>
 
 ### SIEM
